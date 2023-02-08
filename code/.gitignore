@@ -1,0 +1,11 @@
+pkl/*
+res/*
+logs/*
+__pycache__/*
+.ipynb_checkpoints/*
+.vscode/*
+my_*
+*.out
+*.sh
+*.zip
+*.npy
